@@ -1,2 +1,2 @@
 # ObjectDetection
-UAV image ObjectDetection
+UAV image Object detection
